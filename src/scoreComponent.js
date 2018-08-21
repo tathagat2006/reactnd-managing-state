@@ -1,5 +1,1 @@
-import React , {Component} from react;
-
-class scoreComponent extends Component {
- 	 
-}
+import React from 'react';
